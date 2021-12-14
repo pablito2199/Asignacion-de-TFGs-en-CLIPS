@@ -1,0 +1,5 @@
+(clear)
+(load sheets_rules.clp)
+(load facts.clp)
+(reset)
+(run)
