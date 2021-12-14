@@ -5,7 +5,7 @@ Este proyecto permite la asignación de TFGs a los alumnos a partir de sus propu
 - Sistema CLIPS instalado.
 
 ## Cómo utilizar el proyecto
-[Manual](https://github.com/pablito2199/Asignacion-de-TFGs-en-CLIPS/blob/main/Funcionamiento.pdf)
+[Manual](https://github.com/pablito2199/Asignacion-de-TFGs-en-CLIPS/blob/main/Manual.pdf)
 1. Descarga este proyecto la carpeta que desees.
 2. Cargue el archivo [*start_all.bat*](https://github.com/pablito2199/Asignacion-de-TFGs-en-CLIPS/blob/main/start_all.bat) en CLIPS.
 	<br>2.1. Pinche en File.
