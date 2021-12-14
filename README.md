@@ -5,7 +5,7 @@ Este proyecto permite la asignación de TFGs a los alumnos a partir de sus propu
 - Sistema CLIPS instalado.
 
 ## Cómo utilizar el proyecto
-[Manual]
+[Manual](https://github.com/pablito2199/Asignacion-de-TFGs-en-CLIPS/blob/main/Funcionamiento.pdf)
 1. Descarga este proyecto la carpeta que desees.
 2. Lea el manual disponible en _Funcionamiento.pdf_ para informarse en detalle del funcionamiento.
 3. Observa la disposición de las plantillas en el archivo *rules.clp*.
